@@ -16,6 +16,10 @@ Click on the buttons to input numbers and operations.
 The result will be displayed instantly as you input or press the equals = button.
 Click the C (Clear) button to reset the calculator.
 
+Live Demo
+Check out the live version of the Calculator here.
+https://exotic-acoustics.surge.sh/ 
+
 Calculator Logic
 The calculator performs the following functions:
 
