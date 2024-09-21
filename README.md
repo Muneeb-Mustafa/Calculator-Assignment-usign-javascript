@@ -4,7 +4,7 @@ Features
 Basic Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
 Clear/Reset Button: Allows users to clear the input and start fresh.
 Responsive Design: Works on both desktop and mobile devices.
-Keyboard Input: Allows calculations to be performed using keyboard input.
+Keyboard Input: Allows calculations to be performed using keyboard input
 Real-Time Calculation: Displays results as users type their inputs.
 Technologies Used
 HTML5 for structuring the calculator interface.
